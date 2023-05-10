@@ -53,44 +53,72 @@ A complete linux package which includes:
 - Allows applications to be tested before installing them on a host machine.
 - Offers the ability to save state of machine at a given time and roll it back or forward.
 **What is a hypervisor?**
-
+- A program used to run and manage one or more virtual machines on a computer.
 **What is virtualbox**
-
+- A powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 ### Exploring Desktop Environments
 
 **What is a desktop environment? (Provide 3 examples)**
+- A desktop environment typically consists of icons, windows, toolbars, folders, wallpapers and desktop widgets.
+
+Examples:
+-GNOME
+-KDE
+-XFCE
 
 **List 4 common elements of desktop environments**
-
+-Icons
+-File manager
+-Panels
+-System Tray
 **What is Ubuntu’s default desktop environments?**
-
+- GNOME 3
 **What are the official flavors of Ubuntu?**
-
+- Ubuntu GNOME
+- Kubuntu
+- Lubuntu
+- Ubuntu Budgie 
+- Ubuntu Kylin
+- Ubuntu MATE
+- Ubuntu Studio
+- Xubuntu
+- Edubuntu
+- Mythbuntu
 
 ### What is a Shell?
 
 **What is Bash?**
+- A program that provides interactive access to the Linux System.
 
 **How do you access the Linux CLI?**
-
+- Terminal emulator
+- Linux Console
 **What is a console terminal?**
-
+- Its used to interact with a computer.
 **What is a terminal emulator?**
-
+- A program that allows you to access the Linux CLI.
 **Provide 3 examples of Linux commands**
+- ls
+- cut
+- head
 
 
 ### Managing Software 
 
 **Which command is used for updating ubuntu**
-
+- sudo apt update; sudo apt upgrade.
 **Which command is used for installing software. Provide an example.**
-
+- Sudo apt install
+Ex: sudo apt install curl
 **Which command is used for removing software. Provide an example.**
+- Sudo remove
+Ex: sudo snap remove
 
 **Which command is used for searching for software. Provide an example.**
+- apt search "video player"
+Ex: apt search "video player"
 
 **Definition of the following terms:**
-*Package:*
-*Library:*
-*Repository*:
+*Package:* Archives that contain binaries of software,configuration files and information about dependencies.
+*Library:* Reusable code that can be used by ore than one function or program.
+*Repository*:A large collection of software available for download.
